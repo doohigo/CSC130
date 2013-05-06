@@ -1,0 +1,70 @@
+Kung Po Chicken
+1
+Meat
+Fried chicken w/ Kung Po sauce
+Chicken
+Medium
+11.95
+Orange Chicken
+2
+Meat
+Fried chicken w/ citrus sauce
+Chicken
+Medium
+12.95
+General Tso's Chicken
+3
+Meat
+Fried chicken w/ General Tso's sauce
+Chicken
+Medium
+13.95
+General Tso's Beef
+4
+Meat
+Braised beef w/ General Tso's sauce
+Beef
+Medium
+16.95
+Shrimp Dumplings
+5
+Appetizer
+6 steamed shrimp dumplings
+Shrimp
+Small
+8.95
+Fried Chicken Wings
+6
+Appetizer
+6 fried hand-breaded chicken wings
+chicken
+Small
+5.95
+Ma Po Tofu
+7
+Non-meat
+Spicy Tofu w/ our secret sauce
+Tofu
+Medium
+9.95
+Spring Rolls
+8
+Appetizer
+4 spring rolls w/ egg, cabbage and pork
+Mixed
+Small
+5.95
+Pork Teriyaki
+9
+Meat
+Braised cubed pork belly
+Pork
+Medium
+11.95
+Shrimp w/ Lobster Sauce
+10
+Meat
+Jumbo shrimp w/ lobster sauce
+Shrimp
+Large
+18.95
